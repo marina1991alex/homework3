@@ -17,4 +17,9 @@ form {
 .italic_title {
 	font-style: italic;
 }
-
+.about {
+	font-size: 12px;
+}
+.send {
+	margin-top: 20px;
+}
